@@ -1,0 +1,15 @@
+2025-06-16 13:54:31 - api - INFO - API POST /api/orders - Params: {'symbol': 'string', 'side': 'string', 'order_type': 'string', 'quantity': 'string', 'price': 'string', 'client_order_id': 'string'} - Status: None
+2025-06-16 13:54:31 - api - INFO - API POST /api/orders - Params: {'symbol': 'string', 'side': 'string', 'order_type': 'string', 'quantity': 'string', 'price': 'string', 'client_order_id': 'string'} - Status: 500 - [<class 'decimal.ConversionSyntax'>]
+2025-06-16 14:27:37 - api - INFO - API GET /api/orderbook/BTC-USDT - Params: None - Status: None
+2025-06-16 14:28:19 - api - INFO - API GET /api/orderbook/BTC-USDT - Params: None - Status: None
+2025-06-16 14:28:39 - api - INFO - API POST /api/orders - Params: {'symbol': 'BTC-USDT', 'side': 'buy', 'order_type': 'ioc', 'quantity': '5', 'price': '100', 'client_order_id': None} - Status: None
+2025-06-16 14:28:45 - api - INFO - API POST /api/orders - Params: {'symbol': 'BTC-USDT', 'side': 'buy', 'order_type': 'ioc', 'quantity': '5', 'price': '100', 'client_order_id': None} - Status: None
+2025-06-16 14:28:54 - api - INFO - API POST /api/orders - Params: {'symbol': 'BTC-USDT', 'side': 'sell', 'order_type': 'ioc', 'quantity': '5', 'price': '120', 'client_order_id': None} - Status: None
+2025-06-16 15:03:54 - api - INFO - API GET /api/orderbook/BTC-USDT - Params: None - Status: None
+2025-06-16 15:04:04 - api - INFO - API GET /api/orderbook/BTC-USDT - Params: None - Status: None
+2025-06-16 15:04:18 - api - INFO - API POST /api/orders - Params: {'symbol': 'BTC-USDT', 'side': 'buy', 'order_type': 'market', 'quantity': '10', 'price': None, 'client_order_id': None} - Status: None
+2025-06-16 15:04:33 - api - INFO - API POST /api/orders - Params: {'symbol': 'BTC-USDT', 'side': 'buy', 'order_type': 'limit', 'quantity': '10', 'price': '100', 'client_order_id': None} - Status: None
+2025-06-16 15:09:02 - api - INFO - API GET /api/orderbook/BTC-USDT - Params: None - Status: None
+2025-06-16 15:09:13 - api - INFO - API POST /api/orders - Params: {'symbol': 'BTC-USDT', 'side': 'buy', 'order_type': 'limit', 'quantity': '1000', 'price': '100', 'client_order_id': None} - Status: None
+2025-06-16 15:09:18 - api - INFO - API GET /api/orderbook/BTC-USDT - Params: None - Status: None
+2025-06-16 15:09:36 - api - INFO - API POST /api/orders - Params: {'symbol': 'BTC-USDT', 'side': 'sell', 'order_type': 'ioc', 'quantity': '10', 'price': '80', 'client_order_id': None} - Status: None

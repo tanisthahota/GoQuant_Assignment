@@ -1,0 +1,14 @@
+2025-06-16 14:28:39 - engine - INFO - Order created: ID=97f03b11-faf8-48c4-aa78-70eb8979ba88, Symbol=BTC-USDT, Type=ioc, Side=buy, Quantity=5, Price=100, Status=pending
+2025-06-16 14:28:39 - engine - INFO - Order processed: ID=97f03b11-faf8-48c4-aa78-70eb8979ba88, Symbol=BTC-USDT, Type=ioc, Side=buy, Quantity=5, Price=100, Status=cancelled
+2025-06-16 14:28:45 - engine - INFO - Order created: ID=1e46b0e8-93ef-457e-bcda-a87ea3bd6faf, Symbol=BTC-USDT, Type=ioc, Side=buy, Quantity=5, Price=100, Status=pending
+2025-06-16 14:28:45 - engine - INFO - Order processed: ID=1e46b0e8-93ef-457e-bcda-a87ea3bd6faf, Symbol=BTC-USDT, Type=ioc, Side=buy, Quantity=5, Price=100, Status=cancelled
+2025-06-16 14:28:54 - engine - INFO - Order created: ID=f64eee6f-93ea-4690-b065-39cef17d3d17, Symbol=BTC-USDT, Type=ioc, Side=sell, Quantity=5, Price=120, Status=pending
+2025-06-16 14:28:54 - engine - INFO - Order processed: ID=f64eee6f-93ea-4690-b065-39cef17d3d17, Symbol=BTC-USDT, Type=ioc, Side=sell, Quantity=5, Price=120, Status=cancelled
+2025-06-16 15:04:18 - engine - INFO - Order created: ID=b418847b-a1ef-4259-aeb8-30d09394deaf, Symbol=BTC-USDT, Type=market, Side=buy, Quantity=10, Price=None, Status=pending
+2025-06-16 15:04:18 - engine - INFO - Order processed: ID=b418847b-a1ef-4259-aeb8-30d09394deaf, Symbol=BTC-USDT, Type=market, Side=buy, Quantity=10, Price=None, Status=partially_filled
+2025-06-16 15:04:33 - engine - INFO - Order created: ID=9fca8f44-ffb8-462d-934d-2f44bdf75cfa, Symbol=BTC-USDT, Type=limit, Side=buy, Quantity=10, Price=100, Status=pending
+2025-06-16 15:04:33 - engine - INFO - Order processed: ID=9fca8f44-ffb8-462d-934d-2f44bdf75cfa, Symbol=BTC-USDT, Type=limit, Side=buy, Quantity=10, Price=100, Status=open
+2025-06-16 15:09:13 - engine - INFO - Order created: ID=fef3d9b5-e461-43de-9ccb-39626b48832c, Symbol=BTC-USDT, Type=limit, Side=buy, Quantity=1000, Price=100, Status=pending
+2025-06-16 15:09:13 - engine - INFO - Order processed: ID=fef3d9b5-e461-43de-9ccb-39626b48832c, Symbol=BTC-USDT, Type=limit, Side=buy, Quantity=1000, Price=100, Status=open
+2025-06-16 15:09:36 - engine - INFO - Order created: ID=5b7924a3-a019-42e0-ab09-8f5997a74a4a, Symbol=BTC-USDT, Type=ioc, Side=sell, Quantity=10, Price=80, Status=pending
+2025-06-16 15:09:36 - engine - INFO - Order processed: ID=5b7924a3-a019-42e0-ab09-8f5997a74a4a, Symbol=BTC-USDT, Type=ioc, Side=sell, Quantity=10, Price=80, Status=filled
