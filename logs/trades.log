@@ -1,1 +1,2 @@
 2025-06-16 15:09:36 - trades - INFO - Trade executed: ID=00c3ade3-9b61-4f3d-b423-fae297b4b6ec, Symbol=BTC-USDT, Price=100, Quantity=10, Maker=fef3d9b5-e461-43de-9ccb-39626b48832c, Taker=5b7924a3-a019-42e0-ab09-8f5997a74a4a, Aggressor=sell
+2025-06-17 17:26:08 - trades - INFO - Trade executed: ID=83763242-8c9e-4405-9c58-5b6e3a7d5fe0, Symbol=BTC-USDT, Price=100, Quantity=10, Maker=51ba5017-e97c-456f-af9d-e28cadb41a30, Taker=3d7c1f30-31d7-4e5c-bffe-39c59ff8c9bd, Aggressor=sell
